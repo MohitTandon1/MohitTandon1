@@ -1,9 +1,6 @@
 
 ## Hi There,  I'm [Samir Paul](https://github.com/SamirPaul1) <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samirpaul1&label=Profile%20views&color=0e75b6&style=flat" alt="samirpaul1" /> </p>
-
-
 - 🎓 Engineering Undergraduate student
 - 💡 An ML & Open Source enthusiast
 - 🔭 I’m currently working on some of my cool side projects based on Web Development and Machine Learning.
