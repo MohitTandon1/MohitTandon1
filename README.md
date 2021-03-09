@@ -8,14 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/samirpaul01" target="blank"><img src="https://img.shields.io/twitter/follow/samirpaul01?logo=twitter&style=for-the-badge" alt="samirpaul01" /></a> </p>
 ---
-- 🎓 Engineering Undergraduate student
-- 💡 An ML & Open Source enthusiast
-- 🔭 I’m currently working on some of my cool side projects based on Web Development and Machine Learning.
-- ✍️ I’m currently learning.
-- 💻 Doing Competitive Coding on Codeforces and Codechef!
-- 👯 I’m looking to collaborate on GitHub
-- 😄 Pronouns:  He/Him
-- 👇 You can reach me with my personal [Email](paul.samir.2002@gmail.com)
+🎓 Engineering Undergraduate student
+💡 An ML & Open Source enthusiast
+🔭 I’m currently working on some of my cool side projects based on Web Development and Machine Learning.
+✍️ I’m currently learning.
+💻 Doing Competitive Coding on Codeforces and Codechef!
+👯 I’m looking to collaborate on GitHub
+😄 Pronouns:  He/Him
+👇 You can reach me with my personal [Email](paul.samir.2002@gmail.com)
 ---
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
