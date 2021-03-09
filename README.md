@@ -13,6 +13,7 @@
 
 
 ---
+<br>
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
@@ -23,7 +24,6 @@
 [<img align="left" alt="Samir | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
 
-<br />
 ---
 
 
