@@ -52,7 +52,7 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 </p>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/SamirPaul1/github-profile-trophy)
 
 ---
 
