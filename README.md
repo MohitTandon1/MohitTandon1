@@ -54,7 +54,7 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 
 ---
 <p align=center>                           
-<img src="https://raw.githubusercontent.com/MohitTandon1/MohitTandon1/main/Thank_You_for_Visiting.gif" height="112" />
+<img src="https://raw.githubusercontent.com/MohitTandon1/MohitTandon1/main/Thank-You-for-Visiting.gif" height="112" />
 </p>
 
 ---
