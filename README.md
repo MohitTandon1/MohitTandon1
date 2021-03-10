@@ -1,5 +1,5 @@
 
-## Hi There,  I'm [Samir Paul](https://github.com/SamirPaul1) <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+## Hi There,  I'm [Mohit Tandon](https://github.com/Mohittandon1) <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 - 🎓 Engineering Undergraduate student.
 - 💡 An ML & Open Source enthusiast.
