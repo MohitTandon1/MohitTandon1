@@ -1,8 +1,6 @@
 
 ## Hi There,  I'm [Samir Paul](https://github.com/SamirPaul1) <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
-
-
 - 🎓 Engineering Undergraduate student.
 - 💡 An ML & Open Source enthusiast.
 - 🔭 I’m currently working on some of my cool side projects based on Web Development and Machine Learning.
@@ -55,6 +53,11 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/SamirPaul1/github-profile-trophy)
 
 ---
+<p align=center>                           
+<img src="https://raw.githubusercontent.com/MohitTandon1/MohitTandon1/main/thank_you.gif" height="102" />
+</p>
+
+
 
 
 [twitter]: https://twitter.com/SamirPaul01
