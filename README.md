@@ -23,6 +23,9 @@
 
 
 <br />
+---
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 
 ---
 
@@ -43,11 +46,6 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 </a>
 
 
----
-<p align=center>                           
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-                
-</p>
 
 ---
 
