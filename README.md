@@ -46,7 +46,7 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 ---
 <p align="center">
   <a href="#">
-      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SamirPaul1&repo=github-visitors-badge&countColor=%237B1E7A" />
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">/
    </a>
 </p>
 
