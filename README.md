@@ -45,9 +45,8 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 
 ---
 <p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=SamirPaul1.SamirPaul1" alt="Visitors">                     
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
 </p>
-
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/SamirPaul1/github-profile-trophy)
 
