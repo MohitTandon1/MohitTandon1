@@ -44,9 +44,9 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 
 
 ---
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SamirPaul1&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
-
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=SamirPaul1.SamirPaul1" alt="Visitors">                     
+</p>
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/SamirPaul1/github-profile-trophy)
