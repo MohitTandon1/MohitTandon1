@@ -53,9 +53,8 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-<p align=center>                           
-<img src="https://raw.githubusercontent.com/MohitTandon1/MohitTandon1/main/Thank-You-for-Visiting.gif" height="112" />
-</p>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 
 ---
 
