@@ -45,15 +45,13 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 
 ---
 <p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+                
 </p>
 
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamirPaul1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 
 ---
