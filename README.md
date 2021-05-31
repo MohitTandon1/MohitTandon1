@@ -8,7 +8,7 @@
 - 💻 Doing Competitive Coding on Codeforces and Codechef!
 - 👯 I’m looking to collaborate on GitHub.
 - 😄 Pronouns:  He/Him
-- 👇 You can reach me with my personal [Email.](paul.samir.2002@gmail.com)
+- 👇 You can reach me with my personal [Email.](mohittandoniit@gmail.com)
 
 
 ---
@@ -58,6 +58,6 @@ _NOTE: The top languages do not indicate my skill level or something like that, 
 ---
 
 
-[twitter]: https://twitter.com/SamirPaul01
-[facebook]: https://www.facebook.com/SamirPaul01
-[linkedin]: https://www.linkedin.com/in/samirpaul
+[twitter]: https://twitter.com/mohottiit938
+[facebook]: https://www.facebook.com/mohottii
+[linkedin]: https://www.linkedin.com/in/mohottii
